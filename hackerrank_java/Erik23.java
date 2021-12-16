@@ -1,3 +1,4 @@
+package hackerrank_java;
 // Java - Datatypes
 
 // Given an input integer, you must determine which primitive data types are capable

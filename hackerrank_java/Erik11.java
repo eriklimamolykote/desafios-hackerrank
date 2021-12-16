@@ -1,3 +1,4 @@
+package hackerrank_java;
 // Java - Output formatting
 
 import java.util.Scanner;

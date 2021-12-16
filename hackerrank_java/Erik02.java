@@ -1,3 +1,4 @@
+package hackerrank_java;
 import java.util.*;
 
 public class Erik02 {

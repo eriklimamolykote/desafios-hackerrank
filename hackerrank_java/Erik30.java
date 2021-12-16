@@ -1,3 +1,4 @@
+package hackerrank_java;
 // Java - Inheritance I
 
 class Animal {

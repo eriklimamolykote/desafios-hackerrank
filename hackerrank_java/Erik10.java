@@ -1,3 +1,4 @@
+package hackerrank_java;
 // Java - StdIn and Std Out II
 
 import java.util.Scanner;

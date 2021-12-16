@@ -1,3 +1,4 @@
+package hackerrank_java;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

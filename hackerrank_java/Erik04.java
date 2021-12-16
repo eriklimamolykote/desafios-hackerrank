@@ -1,3 +1,4 @@
+package hackerrank_java;
 import java.io.*;
 import java.util.*;
 import java.text.*;

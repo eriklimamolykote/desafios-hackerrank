@@ -1,3 +1,4 @@
+package hackerrank_java;
 // Java - Practice to stdout
 
 public class Erik07 {
